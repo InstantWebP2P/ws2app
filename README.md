@@ -1,2 +1,2 @@
 # ws2app
-Bridge websocket to application with stdio
+Bridge websocket to terminal application with stdio
